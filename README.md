@@ -21,5 +21,6 @@ Needs macOS 26 or later.
 ## Updates
 
 Pulls checks for a new build every hour and installs it in the background
-while none of its windows are open. *Settings ▸ Updates* shows the version
-and has *Check for Updates…*.
+while none of its windows are open. While windows are open, a banner says a
+new version is ready: *Restart to Update* takes one click, and your tabs come
+back. *Settings ▸ Updates* shows the version and has *Check for Updates…*.
